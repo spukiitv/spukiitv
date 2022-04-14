@@ -1,32 +1,28 @@
-### Hi there 👋
+# I'm Spükii
 
-<!--
-**spukiitv/spukiitv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"/>
-<style>
-    :root {
-        display: flex;
-        justify-content: center;
-    }
-    .fa-twitter {
-        color: red;
-    }
-</style>
-
-# I'm Spükii <i class="fa-solid fa-hand-peace"></i>
 I'm a developer, focused on performance, design, security, and privacy.
 
-## [<i class="fa-brands fa-twitter"></i>](www.twitter.com)
+### | [**Twitter**](https://twitter.com/spukiitv) | [**Reddit**](https://reddit.com/u/quarkstuff) |
+
+### **Learning**
+
+- Learning/Planning to learn:
+
+[![](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
+[![](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
+[![](https://skillicons.dev/icons?i=astro)](https://astro.build)
+[![](https://skillicons.dev/icons?i=deno)](https://deno.land)
+[![](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![](https://skillicons.dev/icons?i=tauri)](https://tauri.studio)
+
+_That's it for now lol_
+
+### **Working On**
+
+_Nothing at the moment, though I am planning an update to the site_
+
+### Skills
+
+What I know well:
+
+[![Skills](https://skillicons.dev/icons?i=ts,windi,sass,ai,dart,go)](https://skillicons.dev)
