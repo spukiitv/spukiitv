@@ -2,8 +2,8 @@
 
 I'm a developer, focused on performance, design, security, and privacy.
 
-[**Twitter**](https://twitter.com/spukiitv)|[**DEVto**](https://dev.to/spukiitv)
-:--:|:--:
+|[**DEVto**](https://dev.to/spukiitv)|
+|:--:|
 
 ### :blue_book: About Me
 
