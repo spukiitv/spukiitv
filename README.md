@@ -12,7 +12,7 @@ I'm a developer, focused on performance, design, security, and privacy.
 |||||
 :--:|:--:|:--:|:--:
 [**Svelte**](https://svelte.dev) | [**Rust**](https://rust-lang.org) | [**Kotlin**](https://kotlinelang.org) | [**Tauri**](https://tauri.app)
-[**SolidJS**](https://solidjs.com) | [**NuxtJS**](https://nuxtjs.org) | [**Actix**](https://actix.rs) | [**Julia**](https://julialang)
+[**SolidJS**](https://solidjs.com) | [**NuxtJS**](https://nuxtjs.org) | [**Actix**](https://actix.rs) | [**Godot**](https://godotengine.org/)
 [**Redis**](https://redis.io) | [**Zig**](https://ziglang.org) | [**UnoCSS**](https://uno.antfu.me) | [**Elixir**](https://elixir-lang.org)
 
 ### :star: Skills
