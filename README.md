@@ -1,6 +1,6 @@
 # I'm Spükii
 
-I'm a developer, focused on performance, design, security, and privacy.
+I'm a developer, focused on performance, security, and open-source.
 
 |[**DEVto**](https://dev.to/spukiitv)|
 |:--:|
